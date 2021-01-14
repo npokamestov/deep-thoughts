@@ -10,7 +10,7 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "cd client && npm run build"git 
+    "heroku-postbuild": "cd client && npm run build"
   },
   "repository": {
     "type": "git",
